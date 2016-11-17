@@ -14,11 +14,15 @@ __maintainer:__ [Christopher Hawkins](https://twitter.com/CyberFilth)
 ##Testing on Ubuntu
 To start the aplication in a different language, under Ubuntu:
 
-    $ LANG={language} LANGUAGE={language} lazlock
+```bash
+$ LANG={language} LANGUAGE={language} lazlock
+```
 
 An example with Portuguese(Portugal):
 
-    $ LANG=pt_PT.UTF-8 LANGUAGE=pt_PT.UTF-8 lazlock
+```bash
+$ LANG=pt_PT.UTF-8 LANGUAGE=pt_PT.UTF-8 lazlock
+```
 
 For more information on temporarily change your language:
 
