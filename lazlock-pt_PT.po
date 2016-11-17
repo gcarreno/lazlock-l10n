@@ -1,45 +1,55 @@
 msgid ""
-msgstr "Content-Type: text/plain; charset=UTF-8"
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"X-Generator: Poedit 1.8.9\n"
 
 #: tmainlazlock.btnbanking.caption
 msgctxt "tmainlazlock.btnbanking.caption"
 msgid "Banking"
-msgstr ""
+msgstr "Bancos"
 
 #: tmainlazlock.btneducation.caption
 msgctxt "tmainlazlock.btneducation.caption"
 msgid "Education"
-msgstr ""
+msgstr "Educação"
 
 #: tmainlazlock.btnemail.caption
 msgctxt "tmainlazlock.btnemail.caption"
 msgid "Email"
-msgstr ""
+msgstr "E-Mail"
 
 #: tmainlazlock.btnmedia.caption
 msgctxt "tmainlazlock.btnmedia.caption"
 msgid "Media"
-msgstr ""
+msgstr "Midia"
 
 #: tmainlazlock.btnother.caption
 msgctxt "tmainlazlock.btnother.caption"
 msgid "Other"
-msgstr ""
+msgstr "Outros"
 
 #: tmainlazlock.btnshopping.caption
 msgctxt "tmainlazlock.btnshopping.caption"
 msgid "Shopping"
-msgstr ""
+msgstr "Compras"
 
 #: tmainlazlock.btnshowall.caption
 msgctxt "tmainlazlock.btnshowall.caption"
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #: tmainlazlock.btnsocialmedia.caption
 msgctxt "tmainlazlock.btnsocialmedia.caption"
 msgid "Social Media"
-msgstr ""
+msgstr "Redes Sociais"
 
 #: tmainlazlock.btnsoftware.caption
 msgctxt "tmainlazlock.btnsoftware.caption"
@@ -54,35 +64,35 @@ msgstr ""
 #: tmainlazlock.btnwork.caption
 msgctxt "tmainlazlock.btnwork.caption"
 msgid "Work"
-msgstr ""
+msgstr "Trabalho"
 
 #: tmainlazlock.caption
 msgid "LazLock"
-msgstr ""
+msgstr "LazLock"
 
 #: tmainlazlock.categoryheader.caption
 msgid "Categories"
-msgstr ""
+msgstr "Categorias"
 
 #: tmainlazlock.labelpassword.caption
 msgctxt "TMAINLAZLOCK.LABELPASSWORD.CAPTION"
 msgid "Password"
-msgstr ""
+msgstr "Palavra Passe"
 
 #: tmainlazlock.labelurl.caption
 msgctxt "TMAINLAZLOCK.LABELURL.CAPTION"
 msgid "URL"
-msgstr ""
+msgstr "Endereço Web"
 
 #: tmainlazlock.labeluser.caption
 msgctxt "TMAINLAZLOCK.LABELUSER.CAPTION"
 msgid "Username"
-msgstr ""
+msgstr "Nome de Utilizador"
 
 #: tmainlazlock.listview1.columns[0].caption
 msgctxt "tmainlazlock.listview1.columns[0].caption"
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 #: tmainlazlock.listview1.columns[1].caption
 msgid "Logins"
@@ -91,182 +101,182 @@ msgstr ""
 #: tmainlazlock.listview1.columns[2].caption
 msgctxt "tmainlazlock.listview1.columns[2].caption"
 msgid "URL"
-msgstr ""
+msgstr "Endereço Web"
 
 #: tmainlazlock.listview1.columns[3].caption
 msgctxt "tmainlazlock.listview1.columns[3].caption"
 msgid "Username"
-msgstr ""
+msgstr "Nome de Utilizador"
 
 #: tmainlazlock.listview1.columns[4].caption
 msgctxt "tmainlazlock.listview1.columns[4].caption"
 msgid "Password"
-msgstr ""
+msgstr "Palavra Passe"
 
 #: tmainlazlock.listview1.columns[5].caption
 msgid "Image"
-msgstr ""
+msgstr "Imagem"
 
 #: tmainlazlock.menuitem1.caption
 msgctxt "tmainlazlock.menuitem1.caption"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmainlazlock.menuitem3.caption
 msgctxt "TMAINLAZLOCK.MENUITEM3.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmainlazlock.menuitem5.caption
 msgctxt "TMAINLAZLOCK.MENUITEM5.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmainlazlock.mnuabout.caption
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 #: tmainlazlock.mnuadd.caption
 msgctxt "tmainlazlock.mnuadd.caption"
 msgid "Add Entry"
-msgstr ""
+msgstr "Adicionar Entrada"
 
 #: tmainlazlock.mnuadd.hint
 msgctxt "tmainlazlock.mnuadd.hint"
 msgid "Add a new entry"
-msgstr ""
+msgstr "Adicionar nova entrada"
 
 #: tmainlazlock.mnubackup.caption
 msgid "Create backup"
-msgstr ""
+msgstr "Criar cópia de segurança"
 
 #: tmainlazlock.mnuchangepw.caption
 msgid "Change Password"
-msgstr ""
+msgstr "Mudar Palavra Passe"
 
 #: tmainlazlock.mnudelete.caption
 msgctxt "tmainlazlock.mnudelete.caption"
 msgid "Delete Entry"
-msgstr ""
+msgstr "Apagar Entrada"
 
 #: tmainlazlock.mnudelete.hint
 msgctxt "tmainlazlock.mnudelete.hint"
 msgid "Remove an entry"
-msgstr ""
+msgstr "Remover uma entrada"
 
 #: tmainlazlock.mnuedit.caption
 msgctxt "tmainlazlock.mnuedit.caption"
 msgid "Edit Entry"
-msgstr ""
+msgstr "Editar Entrada"
 
 #: tmainlazlock.mnuedit.hint
 msgctxt "tmainlazlock.mnuedit.hint"
 msgid "Edit an entry"
-msgstr ""
+msgstr "Editar uma entrada"
 
 #: tmainlazlock.mnueditdropdown.caption
 msgid "&Edit"
-msgstr ""
+msgstr "&Editar"
 
 #: tmainlazlock.mnuexit.caption
 msgid "E&xit"
-msgstr ""
+msgstr "&Sair"
 
 #: tmainlazlock.mnuexit.hint
 msgctxt "tmainlazlock.mnuexit.hint"
 msgid "Exit LazLock"
-msgstr ""
+msgstr "Sair do LazLock"
 
 #: tmainlazlock.mnuexporttext.caption
 msgid "Export as plain text"
-msgstr ""
+msgstr "Exportar para ficheiro de texto"
 
 #: tmainlazlock.mnufile.caption
 msgid "&File"
-msgstr ""
+msgstr "&Ficheiro"
 
 #: tmainlazlock.mnuhelp.caption
 msgid "&Help"
-msgstr ""
+msgstr "&Ajuda"
 
 #: tmainlazlock.mnuhelpdivider.caption
 msgctxt "TMAINLAZLOCK.MNUHELPDIVIDER.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmainlazlock.mnuonlinehelp.caption
 msgid "Online help"
-msgstr ""
+msgstr "Ajuda Online"
 
 #: tmainlazlock.mnupwgenerator.caption
 msgctxt "tmainlazlock.mnupwgenerator.caption"
 msgid "Password Generator"
-msgstr ""
+msgstr "Gerador de Palavras Passe"
 
 #: tmainlazlock.mnupwgenerator.hint
 msgctxt "tmainlazlock.mnupwgenerator.hint"
 msgid "Open Password Generator"
-msgstr ""
+msgstr "Abrir Gerador de Palavras Passe"
 
 #: tmainlazlock.mnusave.caption
 msgid "Encrypt and &Save"
-msgstr ""
+msgstr "Encriptar e &Guardar"
 
 #: tmainlazlock.mnusave.hint
 msgctxt "tmainlazlock.mnusave.hint"
 msgid "Save and encrypt database"
-msgstr ""
+msgstr "Encripta e guarda as suas entradas"
 
 #: tmainlazlock.mnuseparator.caption
 msgctxt "TMAINLAZLOCK.MNUSEPARATOR.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmainlazlock.rcmmnuaddentry.caption
 msgctxt "TMAINLAZLOCK.RCMMNUADDENTRY.CAPTION"
 msgid "Add Entry"
-msgstr ""
+msgstr "Adicionar Entrada"
 
 #: tmainlazlock.rcmmnupwgen.caption
 msgctxt "TMAINLAZLOCK.RCMMNUPWGEN.CAPTION"
 msgid "Password Generator"
-msgstr ""
+msgstr "Gerador de Palavras Passe"
 
 #: tmainlazlock.rcmnuaddentry.caption
 msgctxt "TMAINLAZLOCK.RCMNUADDENTRY.CAPTION"
 msgid "Add Entry"
-msgstr ""
+msgstr "Adicionar Entrada"
 
 #: tmainlazlock.rcmnucopypassword.caption
 msgid "Copy Password"
-msgstr ""
+msgstr "Copiar Palavra Passe"
 
 #: tmainlazlock.rcmnucopyurl.caption
 msgid "Copy URL"
-msgstr ""
+msgstr "Copiar Endereço Web"
 
 #: tmainlazlock.rcmnucopyusername.caption
 msgid "Copy Username"
-msgstr ""
+msgstr "Copiar Nome de Utilizador"
 
 #: tmainlazlock.rcmnudeleteentry.caption
 msgctxt "TMAINLAZLOCK.RCMNUDELETEENTRY.CAPTION"
 msgid "Delete Entry"
-msgstr ""
+msgstr "Apagar Entrada"
 
 #: tmainlazlock.rcmnueditentry.caption
 msgctxt "TMAINLAZLOCK.RCMNUEDITENTRY.CAPTION"
 msgid "Edit Entry"
-msgstr ""
+msgstr "Editar Entrada"
 
 #: tmainlazlock.rcmnupwgenerator.caption
 msgctxt "TMAINLAZLOCK.RCMNUPWGENERATOR.CAPTION"
 msgid "Password Generator"
-msgstr ""
+msgstr "Gerador de Palavras Passe"
 
 #: tmainlazlock.savedialog1.title
 msgid "Save unencrypted text file as"
-msgstr ""
+msgstr "Guardar ficheiro de texto não encriptado como"
 
 #: tmainlazlock.tbdivider1.caption
 msgid "TBdivider1"
@@ -294,233 +304,233 @@ msgstr ""
 
 #: tpasswordgenerator.abox.caption
 msgid "Symbols"
-msgstr ""
+msgstr "Simbolos"
 
 #: tpasswordgenerator.bbox.caption
 msgid "Numbers"
-msgstr ""
+msgstr "Números"
 
 #: tpasswordgenerator.btnadd.caption
 msgid "Add"
-msgstr ""
+msgstr "Adicionar"
 
 #: tpasswordgenerator.btncancel.caption
 msgctxt "tpasswordgenerator.btncancel.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: tpasswordgenerator.btncancel2.caption
 msgctxt "TPASSWORDGENERATOR.BTNCANCEL2.CAPTION"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: tpasswordgenerator.btnclose.caption
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: tpasswordgenerator.btncopy.caption
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: tpasswordgenerator.btngenpw.caption
 msgid "Generate password"
-msgstr ""
+msgstr "Gerar Palavra Passe"
 
 #: tpasswordgenerator.btnsavechanges.caption
 msgid "Save changes"
-msgstr ""
+msgstr "Guardar mudanças"
 
 #: tpasswordgenerator.caption
 msgctxt "TPASSWORDGENERATOR.CAPTION"
 msgid "Add Entry / Password Generator"
-msgstr ""
+msgstr "Adicionar Entrada / Gerador de Palavras Passe"
 
 #: tpasswordgenerator.cbox.caption
 msgid "Uppercase"
-msgstr ""
+msgstr "Maiúsculas"
 
 #: tpasswordgenerator.dbox.caption
 msgid "Lowercase"
-msgstr ""
+msgstr "Minúsculas"
 
 #: tpasswordgenerator.ebox.caption
 msgid "Brackets"
-msgstr ""
+msgstr "Parentesis"
 
 #: tpasswordgenerator.edcategory.text
 msgctxt "tpasswordgenerator.edcategory.text"
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 #: tpasswordgenerator.edcategory2.text
 msgctxt "TPASSWORDGENERATOR.EDCATEGORY2.TEXT"
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 #: tpasswordgenerator.edimage.hint
 msgctxt "tpasswordgenerator.edimage.hint"
 msgid "Select an icon"
-msgstr ""
+msgstr "Seleccionar um ícone"
 
 #: tpasswordgenerator.edimage2.hint
 msgctxt "TPASSWORDGENERATOR.EDIMAGE2.HINT"
 msgid "Select an icon"
-msgstr ""
+msgstr "Seleccionar um ícone"
 
 #: tpasswordgenerator.edname.editlabel.caption
 msgctxt "tpasswordgenerator.edname.editlabel.caption"
 msgid "Name of site"
-msgstr ""
+msgstr "Nome do Sítio"
 
 #: tpasswordgenerator.edname.texthint
 msgctxt "tpasswordgenerator.edname.texthint"
 msgid "e.g.  CPunk-Security"
-msgstr ""
+msgstr "e.g.  CPunk-Security"
 
 #: tpasswordgenerator.edname2.editlabel.caption
 msgctxt "TPASSWORDGENERATOR.EDNAME2.EDITLABEL.CAPTION"
 msgid "Name of site"
-msgstr ""
+msgstr "Nome do Sítio"
 
 #: tpasswordgenerator.edname2.texthint
 msgctxt "TPASSWORDGENERATOR.EDNAME2.TEXTHINT"
 msgid "e.g.  CPunk-Security"
-msgstr ""
+msgstr "e.g.  CPunk-Security"
 
 #: tpasswordgenerator.edpassword.editlabel.caption
 msgctxt "TPASSWORDGENERATOR.EDPASSWORD.EDITLABEL.CAPTION"
 msgid "Password"
-msgstr ""
+msgstr "Palavra Passe"
 
 #: tpasswordgenerator.edpassword2.editlabel.caption
 msgctxt "TPASSWORDGENERATOR.EDPASSWORD2.EDITLABEL.CAPTION"
 msgid "Password"
-msgstr ""
+msgstr "Palavra Passe"
 
 #: tpasswordgenerator.edurl.editlabel.caption
 msgctxt "tpasswordgenerator.edurl.editlabel.caption"
 msgid "Web address"
-msgstr ""
+msgstr "Endereço Web"
 
 #: tpasswordgenerator.edurl.texthint
 msgctxt "tpasswordgenerator.edurl.texthint"
 msgid "https://www.cpunk-security.com/"
-msgstr ""
+msgstr "https://www.cpunk-security.com/"
 
 #: tpasswordgenerator.edurl2.editlabel.caption
 msgctxt "TPASSWORDGENERATOR.EDURL2.EDITLABEL.CAPTION"
 msgid "Web address"
-msgstr ""
+msgstr "Endereço Web"
 
 #: tpasswordgenerator.edurl2.texthint
 msgctxt "TPASSWORDGENERATOR.EDURL2.TEXTHINT"
 msgid "https://www.cpunk-security.com/"
-msgstr ""
+msgstr "https://www.cpunk-security.com/"
 
 #: tpasswordgenerator.eduser.editlabel.caption
 msgctxt "TPASSWORDGENERATOR.EDUSER.EDITLABEL.CAPTION"
 msgid "Username"
-msgstr ""
+msgstr "Nome de Utilizador"
 
 #: tpasswordgenerator.eduser2.editlabel.caption
 msgctxt "TPASSWORDGENERATOR.EDUSER2.EDITLABEL.CAPTION"
 msgid "Username"
-msgstr ""
+msgstr "Nome de Utilizador"
 
 #: tpasswordgenerator.fbox.caption
 msgid "Spaces"
-msgstr ""
+msgstr "Espaços"
 
 #: tpasswordgenerator.label1.caption
 msgid "Length of password"
-msgstr ""
+msgstr "Comprimento da Palavra Passe"
 
 #: tpasswordgenerator.label2.caption
 msgctxt "TPASSWORDGENERATOR.LABEL2.CAPTION"
 msgid "Generate a random password"
-msgstr ""
+msgstr "Gerar uma Palavra Passe Aleatória"
 
 #: tpasswordgenerator.lblcategory.caption
 msgctxt "TPASSWORDGENERATOR.LBLCATEGORY.CAPTION"
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 #: tpasswordgenerator.lblcategory2.caption
 msgctxt "TPASSWORDGENERATOR.LBLCATEGORY2.CAPTION"
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 #: tpasswordgenerator.lblicon.caption
 msgctxt "TPASSWORDGENERATOR.LBLICON.CAPTION"
 msgid "Select an icon"
-msgstr ""
+msgstr "Seleccionar um ícone"
 
 #: tpasswordgenerator.lblicon2.caption
 msgctxt "TPASSWORDGENERATOR.LBLICON2.CAPTION"
 msgid "Select an icon"
-msgstr ""
+msgstr "Seleccionar um ícone"
 
 #: tpasswordgenerator.lbltitle.caption
 msgid "Create a new entry"
-msgstr ""
+msgstr "Criar uma nova entrada"
 
 #: tpasswordgenerator.lbltitle1.caption
 msgctxt "TPASSWORDGENERATOR.LBLTITLE1.CAPTION"
 msgid "Edit Entry"
-msgstr ""
+msgstr "Editar Entrada"
 
 #: tpasswordgenerator.linkpwgenerator.caption
 msgctxt "tpasswordgenerator.linkpwgenerator.caption"
 msgid "Use Password Generator"
-msgstr ""
+msgstr "Utilizar o Gerador de Palavras Passe"
 
 #: tpasswordgenerator.linkpwgenerator2.caption
 msgctxt "TPASSWORDGENERATOR.LINKPWGENERATOR2.CAPTION"
 msgid "Use Password Generator"
-msgstr ""
+msgstr "Utilizar o Gerador de Palavras Passe"
 
 #: tpasswordgenerator.optionsgroup.caption
 msgid "Password options"
-msgstr ""
+msgstr "Opções para Palavra Passe"
 
 #: tpasswordgenerator.tabeditentry.caption
 msgctxt "TPASSWORDGENERATOR.TABEDITENTRY.CAPTION"
 msgid "Edit Entry"
-msgstr ""
+msgstr "Editar Entrada"
 
 #: tpasswordgenerator.tabenternew.caption
 msgid "Add entry"
-msgstr ""
+msgstr "Adicionar Entrada"
 
 #: tpasswordgenerator.tabpwgenerator.caption
 msgctxt "TPASSWORDGENERATOR.TABPWGENERATOR.CAPTION"
 msgid "Password Generator"
-msgstr ""
+msgstr "Gerador de Palavras Passe"
 
 #: unitmain.addentrypwgeneratorcaption
 msgctxt "unitmain.addentrypwgeneratorcaption"
 msgid "Add Entry / Password Generator"
-msgstr ""
+msgstr "Adicionar Entrada / Gerador de Palavras Passe"
 
 #: unitmain.changecaption
 msgctxt "unitmain.changecaption"
 msgid "Change password"
-msgstr ""
+msgstr "Mudar Palavra Passe"
 
 #: unitmain.confirmcaption
 msgctxt "unitmain.confirmcaption"
 msgid "Confirm password"
-msgstr ""
+msgstr "Confirme Palavra Passe"
 
 #: unitmain.copytocboard
 msgctxt "unitmain.copytocboard"
 msgid "Copy to the clipboard"
-msgstr ""
+msgstr "Copiar para o ?"
 
 #: unitmain.createcaption
 msgctxt "unitmain.createcaption"
 msgid "Create a new file"
-msgstr ""
+msgstr "Criar um novo ficheiro"
 
 #: unitmain.dontmatch
 msgctxt "unitmain.dontmatch"
@@ -528,16 +538,18 @@ msgid ""
 "Passwords do not match\n"
 "LazLock will now exit\n"
 msgstr ""
+"A Palavra Passe que digitou não coincide com a do ficheiro\n"
+"LazLock vai terminar\n"
 
 #: unitmain.enterpw
 msgctxt "unitmain.enterpw"
 msgid "Please enter your password."
-msgstr ""
+msgstr "Por favor digite a sua Palavra Passe."
 
 #: unitmain.enterpwcaption
 msgctxt "unitmain.enterpwcaption"
 msgid "Enter password"
-msgstr ""
+msgstr "Digite Palavra Passe"
 
 #: unitmain.exitdecryptmessage
 msgctxt "unitmain.exitdecryptmessage"
@@ -545,16 +557,18 @@ msgid ""
 "Incorrect password entered.\n"
 "LazLock will now quit.\n"
 msgstr ""
+"A Palavra Passe que digitou está incorrecta.\n"
+"LazLock vai terminar.\n"
 
 #: unitmain.letsbegin
 msgctxt "unitmain.letsbegin"
 msgid "Let's begin"
-msgstr ""
+msgstr "Comecemos"
 
 #: unitmain.newpw1message
 msgctxt "unitmain.newpw1message"
 msgid "Enter a new password to encrypt this file."
-msgstr ""
+msgstr "Digite uma Palavra Passe nova para encriptar este ficheiro."
 
 #: unitmain.newvaultmessage
 msgctxt "unitmain.newvaultmessage"
@@ -565,6 +579,11 @@ msgid ""
 "IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
 "To protect your privacy, LazLock will not create a backup of your password.\n"
 msgstr ""
+"Um novo cofre desta aplicação será criado.\n"
+"É favor digitiar uma nova Palavra Passe que irá proteger os seus dados.\n"
+"\n"
+"É EXTREMAMENTE IMPORTANTE QUE NÃO ESQUEÇA ESTA PALAVRA PASSE.\n"
+"Afim de proteger a sua privacidade, nenhuma cópia da sua Palavra Passe será guardada.\n"
 
 #: unitmain.nochangemessage
 msgctxt "unitmain.nochangemessage"
@@ -572,21 +591,23 @@ msgid ""
 "Passwords do not match.\n"
 "Current password has not been changed.\n"
 msgstr ""
+"As Palavras Passe não são iguais.\n"
+"A Palavra Passe corrente não foi actualizada.\n"
 
 #: unitmain.noentrymessage
 msgctxt "unitmain.noentrymessage"
 msgid "No entry selected"
-msgstr ""
+msgstr "Não existe uma selecção de entrada"
 
 #: unitmain.nopasswordexit
 msgctxt "unitmain.nopasswordexit"
 msgid "No password entered, LazLock will exit"
-msgstr ""
+msgstr "Não digitou uma Palava Passe, esta aplicação vai terminar"
 
 #: unitmain.openlinkdefaultbrowser
 msgctxt "unitmain.openlinkdefaultbrowser"
 msgid "Open link in default web browser"
-msgstr ""
+msgstr "Abrir endereço web no seu browser por defeito"
 
 #: unitmain.reenterpw
 msgctxt "unitmain.reenterpw"
@@ -982,4 +1003,3 @@ msgid ""
 "A new vault has been created for you to begin storing your passwords.\n"
 "Do you wish to view the online help?\n"
 msgstr ""
-
