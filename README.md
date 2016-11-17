@@ -12,7 +12,7 @@ This is an effort to have it translated and localised.
 __maintainer:__ [Christopher Hawkins](https://twitter.com/CyberFilth)
 
 ##Testing on Ubuntu
-To start the aplication in a different language, under Ubuntu:
+To start the application in a different language, under Ubuntu:
 
 ```bash
 $ LANG={language} LANGUAGE={language} lazlock
@@ -24,7 +24,7 @@ An example with Portuguese(Portugal):
 $ LANG=pt_PT.UTF-8 LANGUAGE=pt_PT.UTF-8 lazlock
 ```
 
-For more information on temporarily change your language:
+For more information on temporarily changing your language:
 
  * [Is it possible to change language for user interface temporarily?](https://askubuntu.com/questions/246547/is-it-possible-to-change-language-for-user-interface-temporarily)
  * [Why is overriding the LANG environment variable not changing the language for me?](https://askubuntu.com/questions/311767/why-is-overriding-the-lang-environment-variable-not-changing-the-language-for-me)
