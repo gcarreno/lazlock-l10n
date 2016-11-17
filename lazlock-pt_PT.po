@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
-"Project-Id-Version: \n"
+"Project-Id-Version: LazLock\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
@@ -54,12 +54,12 @@ msgstr "Redes Sociais"
 #: tmainlazlock.btnsoftware.caption
 msgctxt "tmainlazlock.btnsoftware.caption"
 msgid "Software"
-msgstr ""
+msgstr "Software"
 
 #: tmainlazlock.btnweb.caption
 msgctxt "tmainlazlock.btnweb.caption"
 msgid "Web"
-msgstr ""
+msgstr "Sítios na Web"
 
 #: tmainlazlock.btnwork.caption
 msgctxt "tmainlazlock.btnwork.caption"
@@ -96,7 +96,7 @@ msgstr "Categoria"
 
 #: tmainlazlock.listview1.columns[1].caption
 msgid "Logins"
-msgstr ""
+msgstr "Registros"
 
 #: tmainlazlock.listview1.columns[2].caption
 msgctxt "tmainlazlock.listview1.columns[2].caption"
@@ -525,7 +525,7 @@ msgstr "Confirme Palavra Passe"
 #: unitmain.copytocboard
 msgctxt "unitmain.copytocboard"
 msgid "Copy to the clipboard"
-msgstr "Copiar para o ?"
+msgstr "Copiar para a área de transferência"
 
 #: unitmain.createcaption
 msgctxt "unitmain.createcaption"
@@ -580,7 +580,7 @@ msgid ""
 "To protect your privacy, LazLock will not create a backup of your password.\n"
 msgstr ""
 "Um novo cofre desta aplicação será criado.\n"
-"É favor digitiar uma nova Palavra Passe que irá proteger os seus dados.\n"
+"É favor digitar uma nova Palavra Passe que irá proteger os seus dados.\n"
 "\n"
 "É EXTREMAMENTE IMPORTANTE QUE NÃO ESQUEÇA ESTA PALAVRA PASSE.\n"
 "Afim de proteger a sua privacidade, nenhuma cópia da sua Palavra Passe será guardada.\n"
@@ -612,7 +612,7 @@ msgstr "Abrir endereço web no seu browser por defeito"
 #: unitmain.reenterpw
 msgctxt "unitmain.reenterpw"
 msgid "Please re-enter the password to confirm."
-msgstr ""
+msgstr "Para confirmar, por favor, volte a digitar a Palavra Passe."
 
 #: unitmain.welcomemessagedialog
 msgctxt "unitmain.welcomemessagedialog"
@@ -621,136 +621,139 @@ msgid ""
 "A new vault has been created for you to begin storing your passwords.\n"
 "Do you wish to view the online help?\n"
 msgstr ""
+"Bem vindo ao Gestor de Palavras Passe LazLock\n"
+"Um novo cofre foi criado de modo a guardar as suas Palavras Passe.\n"
+"Deseja consultar a Ajuda Online?\n"
 
 #: unitpassword.averagepw
 msgctxt "unitpassword.averagepw"
 msgid "Average strength password"
-msgstr ""
+msgstr "Palavra Passe com segurança média"
 
 #: unitpassword.closepwgenerator
 msgctxt "unitpassword.closepwgenerator"
 msgid "Close password generator"
-msgstr ""
+msgstr "Fechar Gerador de Palavras Passe"
 
 #: unitpassword.completeallfields
 msgctxt "unitpassword.completeallfields"
 msgid "Please complete all fields to add a new entry"
-msgstr ""
+msgstr "É favor completar todos os campos afim de adicionar uma nova entrada"
 
 #: unitpassword.copypwtoclipboard
 msgctxt "unitpassword.copypwtoclipboard"
 msgid "Copy password to clipboard"
-msgstr ""
+msgstr "Copiar Palavra Passe para a área de transferência"
 
 #: unitpassword.generaterandompw
 msgctxt "unitpassword.generaterandompw"
 msgid "Generate a random password"
-msgstr ""
+msgstr "Gerar uma Palavra Passe Aleatória"
 
 #: unitpassword.selectpwcharacters
 msgctxt "unitpassword.selectpwcharacters"
 msgid "Please select which characters to include in your password."
-msgstr ""
+msgstr "É favor escolher quais caracteres deseja incluir na sua Palavra Passe."
 
 #: unitpassword.statusenablebrackets
 msgctxt "unitpassword.statusenablebrackets"
 msgid "Enable brackets in password"
-msgstr ""
+msgstr "Incluir parentesis na sua Palavra Passe"
 
 #: unitpassword.statusenablelowercase
 msgctxt "unitpassword.statusenablelowercase"
 msgid "Enable lowercase letters in password"
-msgstr ""
+msgstr "Incluir minúsculas na Palavra Passe"
 
 #: unitpassword.statusenablenumbers
 msgctxt "unitpassword.statusenablenumbers"
 msgid "Enable numbers in password"
-msgstr ""
+msgstr "Incluir números na Palavra Passe"
 
 #: unitpassword.statusenablespaces
 msgctxt "unitpassword.statusenablespaces"
 msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
-msgstr ""
+msgstr "Incluir espaço *nota: Nem todos os sítios permitem o uso de espaço na Palavra Passe"
 
 #: unitpassword.statusenablesymbols
 msgctxt "unitpassword.statusenablesymbols"
 msgid "Enable symbols / special characters in password"
-msgstr ""
+msgstr "Incluir simbolos / caracteres especiais na Palavra Passe"
 
 #: unitpassword.statusenableuppercase
 msgctxt "unitpassword.statusenableuppercase"
 msgid "Enable uppercase letters in password"
-msgstr ""
+msgstr "Incluir maiúsculas na Palavra Passe"
 
 #: unitpassword.statusselectpwlength
 msgctxt "unitpassword.statusselectpwlength"
 msgid "Select number of characters in password"
-msgstr ""
+msgstr "Seleccione o número de caracteres na Palavra Passe"
 
 #: unitpassword.strongpw
 msgctxt "unitpassword.strongpw"
 msgid "Strong password"
-msgstr ""
+msgstr "Palavra Passe com segurança forte"
 
 #: unitpassword.verystrongpw
 msgctxt "unitpassword.verystrongpw"
 msgid "Very strong password"
-msgstr ""
+msgstr "Palavra Passe com segurança muito forte"
 
 #: unitpassword.veryweakpw
 msgctxt "unitpassword.veryweakpw"
 msgid "Very weak password"
-msgstr ""
+msgstr "Palavra Passe com segurança muito fraca"
 
 #: unitpassword.weakpw
 msgctxt "unitpassword.weakpw"
 msgid "Weak password"
-msgstr ""
+msgstr "Palavra Passe com segurança fraca"
 
 #: unittranslate.addentrypwgeneratorcaption
 msgctxt "unittranslate.addentrypwgeneratorcaption"
 msgid "Add Entry / Password Generator"
-msgstr ""
+msgstr "Adicionar Entrada / Gerador de Palavras Passe"
 
 #: unittranslate.averagepw
 msgctxt "unittranslate.averagepw"
 msgid "Average strength password"
-msgstr ""
+msgstr "Palavra Passe com segurança média"
 
 #: unittranslate.changecaption
 msgctxt "unittranslate.changecaption"
 msgid "Change password"
-msgstr ""
+msgstr "Mudar Palavra Passe"
 
 #: unittranslate.closepwgenerator
 msgctxt "unittranslate.closepwgenerator"
 msgid "Close password generator"
-msgstr ""
+msgstr "Fechar Gerador de Palavras Passe"
 
 #: unittranslate.completeallfields
 msgctxt "unittranslate.completeallfields"
 msgid "Please complete all fields to add a new entry"
-msgstr ""
+msgstr "É favor completar todos os campos afim de adicionar uma nova entrada"
 
 #: unittranslate.confirmcaption
 msgctxt "unittranslate.confirmcaption"
 msgid "Confirm password"
-msgstr ""
+msgstr "Confirme Palavra Passe"
 
 #: unittranslate.copypwtoclipboard
 msgctxt "unittranslate.copypwtoclipboard"
 msgid "Copy password to clipboard"
-msgstr ""
+msgstr "Copiar Palavra Passe para a área de transferência"
 
 #: unittranslate.copytocboard
 msgctxt "unittranslate.copytocboard"
 msgid "Copy to the clipboard"
-msgstr ""
+msgstr "Copiar para a área de transferência"
 
 #: unittranslate.createcaption
 msgctxt "unittranslate.createcaption"
 msgid "Create a new file"
-msgstr ""
+msgstr "Criar um novo ficheiro"
 
 #: unittranslate.dontmatch
 msgctxt "unittranslate.dontmatch"
@@ -758,20 +761,22 @@ msgid ""
 "Passwords do not match\n"
 "LazLock will now exit\n"
 msgstr ""
+"A Palavra Passe que digitou não coincide com a do ficheiro\n"
+"LazLock vai terminar\n"
 
 #: unittranslate.editentrypwgeneratorcaption
 msgid "Edit Entry / Password Generator"
-msgstr ""
+msgstr "Adicionar Entrada / Gerador de Palavras Passe"
 
 #: unittranslate.enterpw
 msgctxt "unittranslate.enterpw"
 msgid "Please enter your password."
-msgstr ""
+msgstr "Por favor digite a sua Palavra Passe."
 
 #: unittranslate.enterpwcaption
 msgctxt "unittranslate.enterpwcaption"
 msgid "Enter password"
-msgstr ""
+msgstr "Digite Palavra Passe"
 
 #: unittranslate.exitdecryptmessage
 msgctxt "unittranslate.exitdecryptmessage"
@@ -779,90 +784,94 @@ msgid ""
 "Incorrect password entered.\n"
 "LazLock will now quit.\n"
 msgstr ""
+"A Palavra Passe que digitou está incorrecta.\n"
+"LazLock vai terminar.\n"
 
 #: unittranslate.generaterandompw
 msgctxt "unittranslate.generaterandompw"
 msgid "Generate a random password"
-msgstr ""
+msgstr "Gerar uma Palavra Passe Aleatória"
 
 #: unittranslate.lblall
 msgctxt "unittranslate.lblall"
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #: unittranslate.lblbanking
 msgctxt "unittranslate.lblbanking"
 msgid "Banking"
-msgstr ""
+msgstr "Bancos"
 
 #: unittranslate.lbleducation
 msgctxt "unittranslate.lbleducation"
 msgid "Education"
-msgstr ""
+msgstr "Educação"
 
 #: unittranslate.lblemail
 msgctxt "unittranslate.lblemail"
 msgid "Email"
-msgstr ""
+msgstr "E-Mail"
 
 #: unittranslate.lblmedia
 msgctxt "unittranslate.lblmedia"
 msgid "Media"
-msgstr ""
+msgstr "Midia"
 
 #: unittranslate.lblother
 msgctxt "unittranslate.lblother"
 msgid "Other"
-msgstr ""
+msgstr "Outros"
 
 #: unittranslate.lblshopping
 msgctxt "unittranslate.lblshopping"
 msgid "Shopping"
-msgstr ""
+msgstr "Compras"
 
 #: unittranslate.lblsocialmedia
 msgctxt "unittranslate.lblsocialmedia"
 msgid "Social Media"
-msgstr ""
+msgstr "Redes Sociais"
 
 #: unittranslate.lblsoftware
 msgctxt "unittranslate.lblsoftware"
 msgid "Software"
-msgstr ""
+msgstr "Software"
 
 #: unittranslate.lblweb
 msgctxt "unittranslate.lblweb"
 msgid "Web"
-msgstr ""
+msgstr "Sítios na Web"
 
 #: unittranslate.lblwork
 msgctxt "unittranslate.lblwork"
 msgid "Work"
-msgstr ""
+msgstr "Trabalho"
 
 #: unittranslate.letsbegin
 msgctxt "unittranslate.letsbegin"
 msgid "Let's begin"
-msgstr ""
+msgstr "Comecemos"
 
 #: unittranslate.msgareyousure
 msgid "Are you sure you want to delete "
-msgstr ""
+msgstr "Tem a certeza que deseja apagar"
 
 #: unittranslate.msgfilehasbeenchanged
 msgid ""
 "Your LazLock file has been changed.\n"
 "Do you want to save before you exit?\n"
 msgstr ""
+"O ficheiro da LazLock foi modificado.\n"
+"Deseja guardar antes de sair?\n"
 
 #: unittranslate.msgsavechanges
 msgid "Save changes?"
-msgstr ""
+msgstr "Guardar mudanças?"
 
 #: unittranslate.newpw1message
 msgctxt "unittranslate.newpw1message"
 msgid "Enter a new password to encrypt this file."
-msgstr ""
+msgstr "Digite uma Palavra Passe nova para encriptar este ficheiro."
 
 #: unittranslate.newvaultmessage
 msgctxt "unittranslate.newvaultmessage"
@@ -873,6 +882,11 @@ msgid ""
 "IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
 "To protect your privacy, LazLock will not create a backup of your password.\n"
 msgstr ""
+"Um novo cofre desta aplicação será criado.\n"
+"É favor digitar uma nova Palavra Passe que irá proteger os seus dados.\n"
+"\n"
+"É EXTREMAMENTE IMPORTANTE QUE NÃO ESQUEÇA ESTA PALAVRA PASSE.\n"
+"Afim de proteger a sua privacidade, nenhuma cópia da sua Palavra Passe será guardada.\n"
 
 #: unittranslate.nochangemessage
 msgctxt "unittranslate.nochangemessage"
@@ -880,121 +894,123 @@ msgid ""
 "Passwords do not match.\n"
 "Current password has not been changed.\n"
 msgstr ""
+"As Palavras Passe não são iguais.\n"
+"A Palavra Passe corrente não foi actualizada.\n"
 
 #: unittranslate.noentrymessage
 msgctxt "unittranslate.noentrymessage"
 msgid "No entry selected"
-msgstr ""
+msgstr "Não existe uma selecção de entrada"
 
 #: unittranslate.nopasswordexit
 msgctxt "unittranslate.nopasswordexit"
 msgid "No password entered, LazLock will exit"
-msgstr ""
+msgstr "Não digitou uma Palava Passe, esta aplicação vai terminar"
 
 #: unittranslate.openlinkdefaultbrowser
 msgctxt "unittranslate.openlinkdefaultbrowser"
 msgid "Open link in default web browser"
-msgstr ""
+msgstr "Abrir endereço web no seu browser por defeito"
 
 #: unittranslate.openpwgeneratorcaption
 msgctxt "unittranslate.openpwgeneratorcaption"
 msgid "Open Password Generator"
-msgstr ""
+msgstr "Abrir Gerador de Palavras Passe"
 
 #: unittranslate.pwgeneratorcaption
 msgctxt "unittranslate.pwgeneratorcaption"
 msgid "Password Generator"
-msgstr ""
+msgstr "Gerador de Palavras Passe"
 
 #: unittranslate.reenterpw
 msgctxt "unittranslate.reenterpw"
 msgid "Please re-enter the password to confirm."
-msgstr ""
+msgstr "Para confirmar, por favor, volte a digitar a Palavra Passe."
 
 #: unittranslate.selectpwcharacters
 msgctxt "unittranslate.selectpwcharacters"
 msgid "Please select which characters to include in your password."
-msgstr ""
+msgstr "É favor escolher quais caracteres deseja incluir na sua Palavra Passe."
 
 #: unittranslate.statusaddentry
 msgctxt "unittranslate.statusaddentry"
 msgid "Add a new entry"
-msgstr ""
+msgstr "Adicionar nova entrada"
 
 #: unittranslate.statuseditentry
 msgctxt "unittranslate.statuseditentry"
 msgid "Edit an entry"
-msgstr ""
+msgstr "Editar uma entrada"
 
 #: unittranslate.statusenablebrackets
 msgctxt "unittranslate.statusenablebrackets"
 msgid "Enable brackets in password"
-msgstr ""
+msgstr "Incluir parentesis na sua Palavra Passe"
 
 #: unittranslate.statusenablelowercase
 msgctxt "unittranslate.statusenablelowercase"
 msgid "Enable lowercase letters in password"
-msgstr ""
+msgstr "Incluir minúsculas na Palavra Passe"
 
 #: unittranslate.statusenablenumbers
 msgctxt "unittranslate.statusenablenumbers"
 msgid "Enable numbers in password"
-msgstr ""
+msgstr "Incluir números na Palavra Passe"
 
 #: unittranslate.statusenablespaces
 msgctxt "unittranslate.statusenablespaces"
 msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
-msgstr ""
+msgstr "Incluir espaço *nota: Nem todos os sítios permitem o uso de espaço na Palavra Passe"
 
 #: unittranslate.statusenablesymbols
 msgctxt "unittranslate.statusenablesymbols"
 msgid "Enable symbols / special characters in password"
-msgstr ""
+msgstr "Incluir simbolos / caracteres especiais na Palavra Passe"
 
 #: unittranslate.statusenableuppercase
 msgctxt "unittranslate.statusenableuppercase"
 msgid "Enable uppercase letters in password"
-msgstr ""
+msgstr "Incluir maiúsculas na Palavra Passe"
 
 #: unittranslate.statusexitlazlock
 msgctxt "unittranslate.statusexitlazlock"
 msgid "Exit LazLock"
-msgstr ""
+msgstr "Sair do LazLock"
 
 #: unittranslate.statusremoveentry
 msgctxt "unittranslate.statusremoveentry"
 msgid "Remove an entry"
-msgstr ""
+msgstr "Remover uma entrada"
 
 #: unittranslate.statussaveencrypt
 msgctxt "unittranslate.statussaveencrypt"
 msgid "Save and encrypt database"
-msgstr ""
+msgstr "Encripta e guarda as suas entradas"
 
 #: unittranslate.statusselectpwlength
 msgctxt "unittranslate.statusselectpwlength"
 msgid "Select number of characters in password"
-msgstr ""
+msgstr "Seleccione o número de caracteres na Palavra Passe"
 
 #: unittranslate.strongpw
 msgctxt "unittranslate.strongpw"
 msgid "Strong password"
-msgstr ""
+msgstr "Palavra Passe com segurança forte"
 
 #: unittranslate.verystrongpw
 msgctxt "unittranslate.verystrongpw"
 msgid "Very strong password"
-msgstr ""
+msgstr "Palavra Passe com segurança muito forte"
 
 #: unittranslate.veryweakpw
 msgctxt "unittranslate.veryweakpw"
 msgid "Very weak password"
-msgstr ""
+msgstr "Palavra Passe com segurança muito fraca"
 
 #: unittranslate.weakpw
 msgctxt "unittranslate.weakpw"
 msgid "Weak password"
-msgstr ""
+msgstr "Palavra Passe com segurança fraca"
 
 #: unittranslate.welcomemessagedialog
 msgctxt "unittranslate.welcomemessagedialog"
@@ -1003,3 +1019,6 @@ msgid ""
 "A new vault has been created for you to begin storing your passwords.\n"
 "Do you wish to view the online help?\n"
 msgstr ""
+"Bem vindo ao Gestor de Palavras Passe LazLock\n"
+"Um novo cofre foi criado de modo a guardar as suas Palavras Passe.\n"
+"Deseja consultar a Ajuda Online?\n"
