@@ -15,7 +15,7 @@ It's built with [Free Pascal](http://www.freepascal.org) and [Lazarus](http://ww
 
 This is an effort to have it translated and localised.
 
-__maintainer:__ [Christopher Hawkins](https://twitter.com/CyberFilth)
+__maintainer:__ [Christopher Hawkins](https://github.com/cyberfilth)
 
 ##Translation Tools
 
@@ -90,7 +90,7 @@ Esta aplicação foi desenvolvida com o compilador [Free Pascal](http://www.free
 
 Este repositório é um esforço para traduzir a aplicação.
 
-__maintainer:__ [Gustavo Carreno](https://twitter.com/gcarreno)
+__maintainer:__ [Gustavo Carreno](https://github.com/gcarreno)
 
 ###pt_BR
 Lazlock é uma aplicação leve e portável que gere palavras passe e corre em Windows e GNU/Linux.
@@ -108,4 +108,4 @@ Esta aplicação foi desenvolvida com o compilador [Free Pascal](http://www.free
 
 Este repositório é um esforço para traduzir a aplicação.
 
-__maintainer:__ [Gustavo Carreno](https://twitter.com/gcarreno) Nota: Por enquanto. É necesário alguem que não tenha a tendência para Português Europeu.
+__maintainer:__ [Gustavo Carreno](https://github.com/gcarreno) Nota: Por enquanto. É necesário alguem que não tenha a tendência para Português Europeu.
