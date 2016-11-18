@@ -25,6 +25,8 @@ The most widly available tool that this effort has chosen is [poedit](https://po
 
 It has versions for the main platforms: [download page](https://poedit.net/download).
 
+Here's a [quick and dirty guide to `poedit`](https://flossvalley.blogspot.co.uk/2008/07/quick-and-dirty-guide-to-poedit.html).
+
 ###Installing `poedit`
 
 ####Windows
