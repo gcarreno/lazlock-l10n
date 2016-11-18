@@ -102,7 +102,7 @@ Lazlock é uma aplicação leve e portável que gere palavras passe e corre em W
 Tem também facilidades para criar palavras passe com forte segurança para todos os sítios web que visita.  
 Só precisa de se lembrar de uma única palavra passe para aceder às restantes.
 
-Os seus daddos estão protegidos com encriptação de 128 bits AES.
+Os seus dados estão protegidos com encriptação de 128 bits AES.
 
 Pode encontrar a aplicação [aqui](https://sourceforge.net/projects/lazlock/).
 
@@ -120,7 +120,7 @@ Lazlock é uma aplicação leve e portável que gere palavras passe e corre em W
 Tem também facilidades para criar palavras passe com forte segurança para todos os sítios web que visita.  
 Só precisa de se lembrar de uma única palavra passe para aceder às restantes.
 
-Os seus daddos estão protegidos com encriptação de 128 bits AES.
+Os seus dados estão protegidos com encriptação de 128 bits AES.
 
 Pode encontrar a aplicação [aqui](https://sourceforge.net/projects/lazlock/).
 
