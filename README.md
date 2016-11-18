@@ -17,6 +17,28 @@ This is an effort to have it translated and localised.
 
 __maintainer:__ [Christopher Hawkins](https://github.com/cyberfilth)
 
+##Locale Codes
+
+I've started investigating about this.
+
+Since LazLock is a Windows and GNU/Linux application I'll have to dig deep into what codes are supported in each platform.
+
+For the time being, I've found that the supported ones,
+
+ * Under Ubuntu are: `/usr/share/i18n/SUPPORTED`.
+ * Under Windows are: [Answer on Stack Overflow](https://stackoverflow.com/a/3191729/8167).
+ 
+Still not sure if we should use the `{2 lowercase letter code}(underscore){2 uppercase letter code}` or the more encompassing `{2 lowercase letter code}`.
+
+Will have to discuss this with Christopher.
+
+Things to take into consideration:
+
+ * Investigate how the default translation process occurs under Lazarus.
+ * Investigate a bit more about the `gettext` library.
+ * Combine that knowledge with Windows own localization process.
+ * Combine that knowledge with Linux own localization process.
+
 ##Translation Tools
 
 ###poedit
