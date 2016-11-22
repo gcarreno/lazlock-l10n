@@ -115,10 +115,10 @@ Este repositório é um esforço para traduzir a aplicação.
 __maintainer:__ [Gustavo Carreno](https://github.com/gcarreno)
 
 ###pt_BR
-Lazlock é uma aplicação leve e portável que gere palavras passe e corre em Windows e GNU/Linux.
+Lazlock é uma aplicação leve e portátil que gera senhas e roda em Windows e GNU/Linux.
 
-Tem também facilidades para criar palavras passe com forte segurança para todos os sítios web que visita.  
-Só precisa de se lembrar de uma única palavra passe para aceder às restantes.
+Também facilita a criação de senhas com forte segurança para todos os sites que visitar.  
+Só é preciso se lembrar de uma única senha para ter acesso às restantes.
 
 Os seus dados estão protegidos com encriptação de 128 bits AES.
 
@@ -130,4 +130,4 @@ Esta aplicação foi desenvolvida com o compilador [Free Pascal](http://www.free
 
 Este repositório é um esforço para traduzir a aplicação.
 
-__maintainer:__ [Gustavo Carreno](https://github.com/gcarreno) Nota: Por enquanto. É necesário alguem que não tenha a tendência para Português Europeu.
+__maintainer:__ [Gustavo Carreno](https://github.com/gcarreno) Nota: Por enquanto. É necessário alguém que não tenha a tendência para Português Europeu.
