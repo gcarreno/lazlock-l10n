@@ -130,4 +130,4 @@ Esta aplicação foi desenvolvida com o compilador [Free Pascal](http://www.free
 
 Este repositório é um esforço para traduzir a aplicação.
 
-__maintainer:__ [Gustavo Carreno](https://github.com/gcarreno) Nota: Por enquanto. É necessário alguém que não tenha a tendência para Português Europeu.
+__maintainer:__ [Alex K.](https://github.com/alexkleinubing)
