@@ -147,6 +147,23 @@ This is an effort to have it translated and localised.
 
 __maintainer:__ 
 
+#Language: it
+LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
+
+It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all.
+
+Your data is strongly protected with 128 bit AES encryption.
+
+You can find it [here](https://sourceforge.net/projects/lazlock/).
+
+The author of LazLock is [Christopher Hawkins](https://twitter.com/CyberFilth).
+
+It's built with the [Free Pascal](http://www.freepascal.org) compiler and the [Lazarus](http://www.lazarus-ide.org) IDE.
+
+This is an effort to have it translated and localised.
+
+__maintainer:__ 
+
 #Language: pl
 LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
 
