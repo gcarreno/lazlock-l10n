@@ -96,6 +96,57 @@ For more information on temporarily changing your language:
 
 At the moment I'm still investigating how we can replicate the procedures that are listed above on 'Testing on Ubuntu' on the Windows platform.
 
+###de
+LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
+
+It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all.
+
+Your data is strongly protected with 128 bit AES encryption.
+
+You can find it [here](https://sourceforge.net/projects/lazlock/).
+
+The author of LazLock is [Christopher Hawkins](https://twitter.com/CyberFilth).
+
+It's built with the [Free Pascal](http://www.freepascal.org) compiler and the [Lazarus](http://www.lazarus-ide.org) IDE.
+
+This is an effort to have it translated and localised.
+
+__maintainer:__ 
+
+###es
+LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
+
+It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all.
+
+Your data is strongly protected with 128 bit AES encryption.
+
+You can find it [here](https://sourceforge.net/projects/lazlock/).
+
+The author of LazLock is [Christopher Hawkins](https://twitter.com/CyberFilth).
+
+It's built with the [Free Pascal](http://www.freepascal.org) compiler and the [Lazarus](http://www.lazarus-ide.org) IDE.
+
+This is an effort to have it translated and localised.
+
+__maintainer:__ 
+
+###fr
+LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
+
+It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all.
+
+Your data is strongly protected with 128 bit AES encryption.
+
+You can find it [here](https://sourceforge.net/projects/lazlock/).
+
+The author of LazLock is [Christopher Hawkins](https://twitter.com/CyberFilth).
+
+It's built with the [Free Pascal](http://www.freepascal.org) compiler and the [Lazarus](http://www.lazarus-ide.org) IDE.
+
+This is an effort to have it translated and localised.
+
+__maintainer:__ 
+
 ###pt_PT
 Lazlock é uma aplicação leve e portável que gere palavras passe e corre em Windows e GNU/Linux.
 
