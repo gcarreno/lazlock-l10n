@@ -1,6 +1,6 @@
 # LazLock Translation
 
-###Language: en
+#Language: en
 LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
 
 It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all.
@@ -96,7 +96,7 @@ For more information on temporarily changing your language:
 
 At the moment I'm still investigating how we can replicate the procedures that are listed above on 'Testing on Ubuntu' on the Windows platform.
 
-###Language: de
+#Language: de
 LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
 
 It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all.
@@ -113,7 +113,7 @@ This is an effort to have it translated and localised.
 
 __maintainer:__ 
 
-###Language: es
+#Language: es
 LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
 
 It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all.
@@ -130,7 +130,7 @@ This is an effort to have it translated and localised.
 
 __maintainer:__ 
 
-###Language: fr
+#Language: fr
 LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
 
 It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all.
@@ -147,7 +147,7 @@ This is an effort to have it translated and localised.
 
 __maintainer:__ 
 
-###Language: pt_PT
+#Language: pt_PT
 Lazlock é uma aplicação leve e portável que gere palavras passe e corre em Windows e GNU/Linux.
 
 Tem também facilidades para criar palavras passe com forte segurança para todos os sítios web que visita.  
@@ -165,7 +165,7 @@ Este repositório é um esforço para traduzir a aplicação.
 
 __maintainer:__ [Gustavo Carreno](https://github.com/gcarreno)
 
-###Language: pt_BR
+#Language: pt_BR
 Lazlock é uma aplicação leve e portátil que gera senhas e roda em Windows e GNU/Linux.
 
 Também facilita a criação de senhas com forte segurança para todos os sites que visitar.  
