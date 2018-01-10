@@ -29,7 +29,7 @@ msgstr "E-posta"
 #: tmainlazlock.btnmedia.caption
 msgctxt "tmainlazlock.btnmedia.caption"
 msgid "Media"
-msgstr "medya"
+msgstr "Medya"
 
 #: tmainlazlock.btnother.caption
 msgctxt "tmainlazlock.btnother.caption"
@@ -39,12 +39,12 @@ msgstr "Diğer"
 #: tmainlazlock.btnshopping.caption
 msgctxt "tmainlazlock.btnshopping.caption"
 msgid "Shopping"
-msgstr "Alışveriş yapmak"
+msgstr "Alışveriş"
 
 #: tmainlazlock.btnshowall.caption
 msgctxt "tmainlazlock.btnshowall.caption"
 msgid "All"
-msgstr "Herşey"
+msgstr "Her şey"
 
 #: tmainlazlock.btnsocialmedia.caption
 msgctxt "tmainlazlock.btnsocialmedia.caption"
@@ -59,7 +59,7 @@ msgstr "Yazılım"
 #: tmainlazlock.btnweb.caption
 msgctxt "tmainlazlock.btnweb.caption"
 msgid "Web"
-msgstr "ağ"
+msgstr "Web"
 
 #: tmainlazlock.btnwork.caption
 msgctxt "tmainlazlock.btnwork.caption"
@@ -96,7 +96,7 @@ msgstr "Kategori"
 
 #: tmainlazlock.listview1.columns[1].caption
 msgid "Logins"
-msgstr "Girişler"
+msgstr "Oturumlar"
 
 #: tmainlazlock.listview1.columns[2].caption
 msgctxt "tmainlazlock.listview1.columns[2].caption"
@@ -115,7 +115,7 @@ msgstr "Parola"
 
 #: tmainlazlock.listview1.columns[5].caption
 msgid "Image"
-msgstr "görüntü"
+msgstr "Görüntü"
 
 #: tmainlazlock.menuitem1.caption
 msgctxt "tmainlazlock.menuitem1.caption"
@@ -134,7 +134,7 @@ msgstr "-"
 
 #: tmainlazlock.mnuabout.caption
 msgid "About"
-msgstr "hakkında"
+msgstr "Hakkında"
 
 #: tmainlazlock.mnuadd.caption
 msgctxt "tmainlazlock.mnuadd.caption"
@@ -152,7 +152,7 @@ msgstr "Yedek oluştur"
 
 #: tmainlazlock.mnuchangepw.caption
 msgid "Change Password"
-msgstr "Şifre değiştir"
+msgstr "Parola değiştir"
 
 #: tmainlazlock.mnudelete.caption
 msgctxt "tmainlazlock.mnudelete.caption"
@@ -176,11 +176,11 @@ msgstr "Bir girişi düzenleme"
 
 #: tmainlazlock.mnueditdropdown.caption
 msgid "&Edit"
-msgstr "&Düzenle"
+msgstr "Düz$enle"
 
 #: tmainlazlock.mnuexit.caption
 msgid "E&xit"
-msgstr "Çıkış"
+msgstr "$Çıkış"
 
 #: tmainlazlock.mnuexit.hint
 msgctxt "tmainlazlock.mnuexit.hint"
@@ -211,12 +211,12 @@ msgstr "Çevrimiçi yardım"
 #: tmainlazlock.mnupwgenerator.caption
 msgctxt "tmainlazlock.mnupwgenerator.caption"
 msgid "Password Generator"
-msgstr "Şifre Jeneratörü"
+msgstr "Parola Oluşturucu"
 
 #: tmainlazlock.mnupwgenerator.hint
 msgctxt "tmainlazlock.mnupwgenerator.hint"
 msgid "Open Password Generator"
-msgstr "Şifre Jeneratörünü Aç"
+msgstr "Parola Oluşturucuyu Aç"
 
 #: tmainlazlock.mnusave.caption
 msgid "Encrypt and &Save"
@@ -225,7 +225,7 @@ msgstr "Şifrele ve Kaydet"
 #: tmainlazlock.mnusave.hint
 msgctxt "tmainlazlock.mnusave.hint"
 msgid "Save and encrypt database"
-msgstr "Veritabanı kaydet ve şifreleme"
+msgstr "Veritabanı kaydet ve şifrele"
 
 #: tmainlazlock.mnuseparator.caption
 msgctxt "TMAINLAZLOCK.MNUSEPARATOR.CAPTION"
@@ -240,7 +240,7 @@ msgstr "Giriş Ekle"
 #: tmainlazlock.rcmmnupwgen.caption
 msgctxt "TMAINLAZLOCK.RCMMNUPWGEN.CAPTION"
 msgid "Password Generator"
-msgstr "Şifre Jeneratörü"
+msgstr "Parola Oluşturucu"
 
 #: tmainlazlock.rcmnuaddentry.caption
 msgctxt "TMAINLAZLOCK.RCMNUADDENTRY.CAPTION"
@@ -249,7 +249,7 @@ msgstr "Giriş Ekle"
 
 #: tmainlazlock.rcmnucopypassword.caption
 msgid "Copy Password"
-msgstr "Şifreyi Kopyala"
+msgstr "Parolayı Kopyala"
 
 #: tmainlazlock.rcmnucopyurl.caption
 msgid "Copy URL"
@@ -272,7 +272,7 @@ msgstr "Girişi Düzenle"
 #: tmainlazlock.rcmnupwgenerator.caption
 msgctxt "TMAINLAZLOCK.RCMNUPWGENERATOR.CAPTION"
 msgid "Password Generator"
-msgstr "Şifre Jeneratörü"
+msgstr "Parola Oluşturucu"
 
 #: tmainlazlock.savedialog1.title
 msgid "Save unencrypted text file as"
@@ -308,21 +308,21 @@ msgstr "Semboller"
 
 #: tpasswordgenerator.bbox.caption
 msgid "Numbers"
-msgstr "sayılar"
+msgstr "Sayılar"
 
 #: tpasswordgenerator.btnadd.caption
 msgid "Add"
-msgstr "Eklemek"
+msgstr "Ekle"
 
 #: tpasswordgenerator.btncancel.caption
 msgctxt "tpasswordgenerator.btncancel.caption"
 msgid "Cancel"
-msgstr "İptal etmek"
+msgstr "İptal et"
 
 #: tpasswordgenerator.btncancel2.caption
 msgctxt "tpasswordgenerator.btncancel2.caption"
 msgid "Cancel"
-msgstr "İptal etmek"
+msgstr "İptal et"
 
 #: tpasswordgenerator.btnclose.caption
 msgid "Close"
@@ -330,11 +330,11 @@ msgstr "Kapat"
 
 #: tpasswordgenerator.btncopy.caption
 msgid "Copy"
-msgstr "kopya"
+msgstr "Kopya"
 
 #: tpasswordgenerator.btngenpw.caption
 msgid "Generate password"
-msgstr "Şifre oluştur"
+msgstr "Parola oluştur"
 
 #: tpasswordgenerator.btnsavechanges.caption
 msgid "Save changes"
@@ -360,12 +360,12 @@ msgstr "Parantez"
 #: tpasswordgenerator.edcategory.text
 msgctxt "tpasswordgenerator.edcategory.text"
 msgid "Select"
-msgstr "seçmek"
+msgstr "Seç"
 
 #: tpasswordgenerator.edcategory2.text
 msgctxt "tpasswordgenerator.edcategory2.text"
 msgid "Select"
-msgstr "seçmek"
+msgstr "Seç"
 
 #: tpasswordgenerator.edimage.hint
 msgctxt "tpasswordgenerator.edimage.hint"
@@ -385,7 +385,7 @@ msgstr "Sitenin adı"
 #: tpasswordgenerator.edname.texthint
 msgctxt "tpasswordgenerator.edname.texthint"
 msgid "e.g.  CPunk-Security"
-msgstr "Örneğin. CPunk-Güvenlik"
+msgstr "Örneğin: CPunk-Güvenlik"
 
 #: tpasswordgenerator.edname2.editlabel.caption
 msgctxt "tpasswordgenerator.edname2.editlabel.caption"
@@ -395,7 +395,7 @@ msgstr "Sitenin adı"
 #: tpasswordgenerator.edname2.texthint
 msgctxt "tpasswordgenerator.edname2.texthint"
 msgid "e.g.  CPunk-Security"
-msgstr "Örneğin. CPunk-Güvenlik"
+msgstr "Örneğin: CPunk-Güvenlik"
 
 #: tpasswordgenerator.edpassword.editlabel.caption
 msgctxt "tpasswordgenerator.edpassword.editlabel.caption"
@@ -410,7 +410,7 @@ msgstr "Parola"
 #: tpasswordgenerator.edurl.editlabel.caption
 msgctxt "tpasswordgenerator.edurl.editlabel.caption"
 msgid "Web address"
-msgstr "internet adresi"
+msgstr "İnternet adresi"
 
 #: tpasswordgenerator.edurl.texthint
 msgctxt "tpasswordgenerator.edurl.texthint"
@@ -420,7 +420,7 @@ msgstr "https://www.cpunk-security.com/"
 #: tpasswordgenerator.edurl2.editlabel.caption
 msgctxt "tpasswordgenerator.edurl2.editlabel.caption"
 msgid "Web address"
-msgstr "internet adresi"
+msgstr "İnternet adresi"
 
 #: tpasswordgenerator.edurl2.texthint
 msgctxt "tpasswordgenerator.edurl2.texthint"
@@ -439,16 +439,16 @@ msgstr "Kullanıcı adı"
 
 #: tpasswordgenerator.fbox.caption
 msgid "Spaces"
-msgstr "Spaces"
+msgstr "Boşluklar"
 
 #: tpasswordgenerator.label1.caption
 msgid "Length of password"
-msgstr "Şifre uzunluğu"
+msgstr "Parola uzunluğu"
 
 #: tpasswordgenerator.label2.caption
 msgctxt "tpasswordgenerator.label2.caption"
 msgid "Generate a random password"
-msgstr "Rasgele bir şifre oluştur"
+msgstr "Rasgele bir parola oluştur"
 
 #: tpasswordgenerator.lblcategory.caption
 msgctxt "tpasswordgenerator.lblcategory.caption"
@@ -482,16 +482,16 @@ msgstr "Girişi Düzenle"
 #: tpasswordgenerator.linkpwgenerator.caption
 msgctxt "tpasswordgenerator.linkpwgenerator.caption"
 msgid "Use Password Generator"
-msgstr "Şifre Jeneratörünü Kullan"
+msgstr "Parola Oluşturucuyu Kullan"
 
 #: tpasswordgenerator.linkpwgenerator2.caption
 msgctxt "tpasswordgenerator.linkpwgenerator2.caption"
 msgid "Use Password Generator"
-msgstr "Şifre Jeneratörünü Kullan"
+msgstr "Parola Oluşturucuyu Kullan"
 
 #: tpasswordgenerator.optionsgroup.caption
 msgid "Password options"
-msgstr "Şifre seçenekleri"
+msgstr "Parola seçenekleri"
 
 #: tpasswordgenerator.tabeditentry.caption
 msgctxt "tpasswordgenerator.tabeditentry.caption"
@@ -505,7 +505,7 @@ msgstr "Giriş ekle"
 #: tpasswordgenerator.tabpwgenerator.caption
 msgctxt "tpasswordgenerator.tabpwgenerator.caption"
 msgid "Password Generator"
-msgstr "Şifre Jeneratörü"
+msgstr "Parola Oluşturucu"
 
 #: unitmain.addentrypwgeneratorcaption
 msgctxt "unitmain.addentrypwgeneratorcaption"
@@ -515,12 +515,12 @@ msgstr "Giriş / Parola Oluşturucu Ekle"
 #: unitmain.changecaption
 msgctxt "unitmain.changecaption"
 msgid "Change password"
-msgstr "Şifre değiştir"
+msgstr "Parola değiştir"
 
 #: unitmain.confirmcaption
 msgctxt "unitmain.confirmcaption"
 msgid "Confirm password"
-msgstr "Şifreyi Onayla"
+msgstr "Parolayı Onayla"
 
 #: unitmain.copytocboard
 msgctxt "unitmain.copytocboard"
@@ -539,17 +539,17 @@ msgid ""
 "LazLock will now exit\n"
 msgstr ""
 "Parolalar uyuşmuyor\n"
-"LazLock artık çıkacak\n"
+"LazLock kapatılacak\n"
 
 #: unitmain.enterpw
 msgctxt "unitmain.enterpw"
 msgid "Please enter your password."
-msgstr "Şifrenizi giriniz Lütfen."
+msgstr "Lütfen parolanızı giriniz."
 
 #: unitmain.enterpwcaption
 msgctxt "unitmain.enterpwcaption"
 msgid "Enter password"
-msgstr "Parolanı Gir"
+msgstr "Parolanı Giriniz"
 
 #: unitmain.exitdecryptmessage
 msgctxt "unitmain.exitdecryptmessage"
@@ -557,8 +557,8 @@ msgid ""
 "Incorrect password entered.\n"
 "LazLock will now quit.\n"
 msgstr ""
-"Yanlış şifre girildi.\n"
-"LazLock şimdi çıkacak.\n"
+"Yanlış parola girildi.\n"
+"LazLock kapatılacak.\n"
 
 #: unitmain.letsbegin
 msgctxt "unitmain.letsbegin"
@@ -568,7 +568,7 @@ msgstr "Hadi başlayalım"
 #: unitmain.newpw1message
 msgctxt "unitmain.newpw1message"
 msgid "Enter a new password to encrypt this file."
-msgstr "Bu dosyayı şifrelemek için yeni bir şifre girin."
+msgstr "Bu dosyayı şifrelemek için yeni bir parola girin."
 
 #: unitmain.newvaultmessage
 msgctxt "unitmain.newvaultmessage"
@@ -580,10 +580,10 @@ msgid ""
 "To protect your privacy, LazLock will not create a backup of your password.\n"
 msgstr ""
 "Yeni bir LazLock kasası oluşturulacak.\n"
-"Lütfen verilerinizi korumak için kullanılacak yeni bir şifre girin.\n"
+"Lütfen verilerinizi korumak için kullanılacak yeni bir parola girin.\n"
 "\n"
 "BU ŞİFRENİN ÜSTLENMESİNDEN ÖNEMLİDİR.\n"
-"Gizliliğinizi korumak için, LazLock şifrenizin bir yedek oluşturmaz.\n"
+"Gizliliğinizi korumak için, LazLock parolanızın bir yedeğini oluşturmaz.\n"
 
 #: unitmain.nochangemessage
 msgctxt "unitmain.nochangemessage"
@@ -592,7 +592,7 @@ msgid ""
 "Current password has not been changed.\n"
 msgstr ""
 "Parolalar uyuşmuyor.\n"
-"Geçerli şifre değiştirilmedi.\n"
+"Geçerli parola değiştirilmedi.\n"
 
 #: unitmain.noentrymessage
 msgctxt "unitmain.noentrymessage"
@@ -602,7 +602,7 @@ msgstr "Seçili girdi yok"
 #: unitmain.nopasswordexit
 msgctxt "unitmain.nopasswordexit"
 msgid "No password entered, LazLock will exit"
-msgstr "Parola girilmedi, LazLock çıkacak"
+msgstr "Parola girilmedi, LazLock kapatılacak"
 
 #: unitmain.openlinkdefaultbrowser
 msgctxt "unitmain.openlinkdefaultbrowser"
@@ -612,7 +612,7 @@ msgstr "Varsayılan web tarayıcısında bağlantıyı aç"
 #: unitmain.reenterpw
 msgctxt "unitmain.reenterpw"
 msgid "Please re-enter the password to confirm."
-msgstr "Onaylamak için lütfen şifreyi tekrar girin."
+msgstr "Onaylamak için lütfen parolayı tekrar girin."
 
 #: unitmain.welcomemessagedialog
 msgctxt "unitmain.welcomemessagedialog"
@@ -622,18 +622,18 @@ msgid ""
 "Do you wish to view the online help?\n"
 msgstr ""
 "LazLock Parola Yöneticisine Hoş Geldiniz\n"
-"Parolalarınızı depolamaya başlamanız için yeni bir kasası oluşturuldu.\n"
+"Parolalarınızı depolamaya başlamanız için yeni bir kasa oluşturuldu.\n"
 "Çevrimiçi yardımı görmek istiyor musunuz?\n"
 
 #: unitpassword.averagepw
 msgctxt "unitpassword.averagepw"
 msgid "Average strength password"
-msgstr "Ortalama güç şifresi"
+msgstr "Ortalama güçlü parola"
 
 #: unitpassword.closepwgenerator
 msgctxt "unitpassword.closepwgenerator"
 msgid "Close password generator"
-msgstr "Şifre üreticisi kapat"
+msgstr "Parola oluşturucuyu kapat"
 
 #: unitpassword.completeallfields
 msgctxt "unitpassword.completeallfields"
@@ -643,72 +643,72 @@ msgstr "Yeni bir giriş eklemek için lütfen tüm alanları doldurun"
 #: unitpassword.copypwtoclipboard
 msgctxt "unitpassword.copypwtoclipboard"
 msgid "Copy password to clipboard"
-msgstr "Şifreyi panoya kopyala"
+msgstr "Parolayı panoya kopyala"
 
 #: unitpassword.generaterandompw
 msgctxt "unitpassword.generaterandompw"
 msgid "Generate a random password"
-msgstr "Rasgele bir şifre oluştur"
+msgstr "Rasgele bir parola oluştur"
 
 #: unitpassword.selectpwcharacters
 msgctxt "unitpassword.selectpwcharacters"
 msgid "Please select which characters to include in your password."
-msgstr "Lütfen şifrenize hangi karakterlerin ekleneceğini seçin."
+msgstr "Lütfen parolanıza hangi karakterlerin ekleneceğini seçin."
 
 #: unitpassword.statusenablebrackets
 msgctxt "unitpassword.statusenablebrackets"
 msgid "Enable brackets in password"
-msgstr "Parantezleri parolayla etkinleştir"
+msgstr "Parolada parantezlere izin ver"
 
 #: unitpassword.statusenablelowercase
 msgctxt "unitpassword.statusenablelowercase"
 msgid "Enable lowercase letters in password"
-msgstr "Parolayla küçük harfleri etkinleştirin"
+msgstr "Parolada küçük harflere izin ver"
 
 #: unitpassword.statusenablenumbers
 msgctxt "unitpassword.statusenablenumbers"
 msgid "Enable numbers in password"
-msgstr "Parolayla numaraları etkinleştir"
+msgstr "Parolada numaralara izin ver"
 
 #: unitpassword.statusenablespaces
 msgctxt "unitpassword.statusenablespaces"
 msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
-msgstr "Boşlukları etkinleştir * not: Tüm web siteleri şifrelerdeki boşluklara izin vermez"
+msgstr "Boşluklara izin ver * not: Tüm web siteleri parolada boşluklara izin vermez"
 
 #: unitpassword.statusenablesymbols
 msgctxt "unitpassword.statusenablesymbols"
 msgid "Enable symbols / special characters in password"
-msgstr "Şifreyi sembolleri / özel karakterleri etkinleştir"
+msgstr "Parolada sembollere / özel karakterlere izin ver"
 
 #: unitpassword.statusenableuppercase
 msgctxt "unitpassword.statusenableuppercase"
 msgid "Enable uppercase letters in password"
-msgstr "Parolayla büyük harfleri etkinleştir"
+msgstr "Parolada büyük harflere izin ver"
 
 #: unitpassword.statusselectpwlength
 msgctxt "unitpassword.statusselectpwlength"
 msgid "Select number of characters in password"
-msgstr "Parola karakter sayısını seçin"
+msgstr "Parolanızın karakter sayısını seçin"
 
 #: unitpassword.strongpw
 msgctxt "unitpassword.strongpw"
 msgid "Strong password"
-msgstr "Güçlü şifre"
+msgstr "Güçlü parola"
 
 #: unitpassword.verystrongpw
 msgctxt "unitpassword.verystrongpw"
 msgid "Very strong password"
-msgstr "Çok güçlü şifre"
+msgstr "Çok güçlü parola"
 
 #: unitpassword.veryweakpw
 msgctxt "unitpassword.veryweakpw"
 msgid "Very weak password"
-msgstr "Çok zayıf şifre"
+msgstr "Çok zayıf parola"
 
 #: unitpassword.weakpw
 msgctxt "unitpassword.weakpw"
 msgid "Weak password"
-msgstr "zayıf şifre"
+msgstr "Zayıf parola"
 
 #: unittranslate.addentrypwgeneratorcaption
 msgctxt "unittranslate.addentrypwgeneratorcaption"
@@ -718,17 +718,17 @@ msgstr "Giriş / Parola Oluşturucu Ekle"
 #: unittranslate.averagepw
 msgctxt "unittranslate.averagepw"
 msgid "Average strength password"
-msgstr "Ortalama güç şifresi"
+msgstr "Ortalama güçlü parola"
 
 #: unittranslate.changecaption
 msgctxt "unittranslate.changecaption"
 msgid "Change password"
-msgstr "Şifre değiştir"
+msgstr "Parola değiştir"
 
 #: unittranslate.closepwgenerator
 msgctxt "unittranslate.closepwgenerator"
 msgid "Close password generator"
-msgstr "Şifre üreticisi kapat"
+msgstr "Parola oluşturucuyu kapat"
 
 #: unittranslate.completeallfields
 msgctxt "unittranslate.completeallfields"
@@ -738,12 +738,12 @@ msgstr "Yeni bir giriş eklemek için lütfen tüm alanları doldurun"
 #: unittranslate.confirmcaption
 msgctxt "unittranslate.confirmcaption"
 msgid "Confirm password"
-msgstr "Şifreyi Onayla"
+msgstr "Parolayı Onayla"
 
 #: unittranslate.copypwtoclipboard
 msgctxt "unittranslate.copypwtoclipboard"
 msgid "Copy password to clipboard"
-msgstr "Şifreyi panoya kopyala"
+msgstr "Parolayı panoya kopyala"
 
 #: unittranslate.copytocboard
 msgctxt "unittranslate.copytocboard"
@@ -762,7 +762,7 @@ msgid ""
 "LazLock will now exit\n"
 msgstr ""
 "Parolalar uyuşmuyor\n"
-"LazLock artık çıkacak\n"
+"LazLock kapatılacak\n"
 
 #: unittranslate.editentrypwgeneratorcaption
 msgid "Edit Entry / Password Generator"
@@ -771,12 +771,12 @@ msgstr "Girişi Düzenle / Parola Oluşturucu"
 #: unittranslate.enterpw
 msgctxt "unittranslate.enterpw"
 msgid "Please enter your password."
-msgstr "Şifrenizi giriniz Lütfen."
+msgstr "Lütfen parolanızı giriniz."
 
 #: unittranslate.enterpwcaption
 msgctxt "unittranslate.enterpwcaption"
 msgid "Enter password"
-msgstr "Parolanı Gir"
+msgstr "Parolanızı Girin"
 
 #: unittranslate.exitdecryptmessage
 msgctxt "unittranslate.exitdecryptmessage"
@@ -784,18 +784,18 @@ msgid ""
 "Incorrect password entered.\n"
 "LazLock will now quit.\n"
 msgstr ""
-"Yanlış şifre girildi.\n"
-"LazLock şimdi çıkacak.\n"
+"Yanlış parola girildi.\n"
+"LazLock kapatılacak.\n"
 
 #: unittranslate.generaterandompw
 msgctxt "unittranslate.generaterandompw"
 msgid "Generate a random password"
-msgstr "Rasgele bir şifre oluştur"
+msgstr "Rasgele bir parola oluştur"
 
 #: unittranslate.lblall
 msgctxt "unittranslate.lblall"
 msgid "All"
-msgstr "Herşey"
+msgstr "Her şey"
 
 #: unittranslate.lblbanking
 msgctxt "unittranslate.lblbanking"
@@ -815,7 +815,7 @@ msgstr "E-posta"
 #: unittranslate.lblmedia
 msgctxt "unittranslate.lblmedia"
 msgid "Media"
-msgstr "medya"
+msgstr "Medya"
 
 #: unittranslate.lblother
 msgctxt "unittranslate.lblother"
@@ -825,7 +825,7 @@ msgstr "Diğer"
 #: unittranslate.lblshopping
 msgctxt "unittranslate.lblshopping"
 msgid "Shopping"
-msgstr "Alışveriş yapmak"
+msgstr "Alışveriş"
 
 #: unittranslate.lblsocialmedia
 msgctxt "unittranslate.lblsocialmedia"
@@ -840,7 +840,7 @@ msgstr "Yazılım"
 #: unittranslate.lblweb
 msgctxt "unittranslate.lblweb"
 msgid "Web"
-msgstr "ağ"
+msgstr "Web"
 
 #: unittranslate.lblwork
 msgctxt "unittranslate.lblwork"
@@ -854,7 +854,7 @@ msgstr "Hadi başlayalım"
 
 #: unittranslate.msgareyousure
 msgid "Are you sure you want to delete "
-msgstr "Silmek istediğine emin misin"
+msgstr "Silmek istediğinize emin misiniz"
 
 #: unittranslate.msgfilehasbeenchanged
 msgid ""
@@ -871,7 +871,7 @@ msgstr "Değişiklikleri Kaydet?"
 #: unittranslate.newpw1message
 msgctxt "unittranslate.newpw1message"
 msgid "Enter a new password to encrypt this file."
-msgstr "Bu dosyayı şifrelemek için yeni bir şifre girin."
+msgstr "Bu dosyayı şifrelemek için yeni bir parola girin."
 
 #: unittranslate.newvaultmessage
 msgctxt "unittranslate.newvaultmessage"
@@ -883,10 +883,10 @@ msgid ""
 "To protect your privacy, LazLock will not create a backup of your password.\n"
 msgstr ""
 "Yeni bir LazLock kasası oluşturulacak.\n"
-"Lütfen verilerinizi korumak için kullanılacak yeni bir şifre girin.\n"
+"Lütfen verilerinizi korumak için kullanılacak yeni bir parola girin.\n"
 "\n"
 "BU ŞİFRENİN ÜSTLENMESİNDEN ÖNEMLİDİR.\n"
-"Gizliliğinizi korumak için, LazLock şifrenizin bir yedek oluşturmaz.\n"
+"Gizliliğinizi korumak için, LazLock parolanızın bir yedeğini oluşturmaz.\n"
 
 #: unittranslate.nochangemessage
 msgctxt "unittranslate.nochangemessage"
@@ -895,7 +895,7 @@ msgid ""
 "Current password has not been changed.\n"
 msgstr ""
 "Parolalar uyuşmuyor.\n"
-"Geçerli şifre değiştirilmedi.\n"
+"Geçerli parola değiştirilmedi.\n"
 
 #: unittranslate.noentrymessage
 msgctxt "unittranslate.noentrymessage"
@@ -905,7 +905,7 @@ msgstr "Seçili girdi yok"
 #: unittranslate.nopasswordexit
 msgctxt "unittranslate.nopasswordexit"
 msgid "No password entered, LazLock will exit"
-msgstr "Parola girilmedi, LazLock çıkacak"
+msgstr "Parola girilmedi, LazLock kapatılacak"
 
 #: unittranslate.openlinkdefaultbrowser
 msgctxt "unittranslate.openlinkdefaultbrowser"
@@ -915,22 +915,22 @@ msgstr "Varsayılan web tarayıcısında bağlantıyı aç"
 #: unittranslate.openpwgeneratorcaption
 msgctxt "unittranslate.openpwgeneratorcaption"
 msgid "Open Password Generator"
-msgstr "Şifre Jeneratörünü Aç"
+msgstr "Parola Oluşturucuyu Aç"
 
 #: unittranslate.pwgeneratorcaption
 msgctxt "unittranslate.pwgeneratorcaption"
 msgid "Password Generator"
-msgstr "Şifre Jeneratörü"
+msgstr "Parola Oluşturucu"
 
 #: unittranslate.reenterpw
 msgctxt "unittranslate.reenterpw"
 msgid "Please re-enter the password to confirm."
-msgstr "Onaylamak için lütfen şifreyi tekrar girin."
+msgstr "Onaylamak için lütfen parolayı tekrar girin."
 
 #: unittranslate.selectpwcharacters
 msgctxt "unittranslate.selectpwcharacters"
 msgid "Please select which characters to include in your password."
-msgstr "Lütfen şifrenize hangi karakterlerin ekleneceğini seçin."
+msgstr "Lütfen parolanıza hangi karakterlerin ekleneceğini seçin."
 
 #: unittranslate.statusaddentry
 msgctxt "unittranslate.statusaddentry"
@@ -940,37 +940,37 @@ msgstr "Yeni giriş ekle"
 #: unittranslate.statuseditentry
 msgctxt "unittranslate.statuseditentry"
 msgid "Edit an entry"
-msgstr "Bir girişi düzenleme"
+msgstr "Bir girişi düzenle"
 
 #: unittranslate.statusenablebrackets
 msgctxt "unittranslate.statusenablebrackets"
 msgid "Enable brackets in password"
-msgstr "Parantezleri parolayla etkinleştir"
+msgstr "Parolada parantezlere izin ver"
 
 #: unittranslate.statusenablelowercase
 msgctxt "unittranslate.statusenablelowercase"
 msgid "Enable lowercase letters in password"
-msgstr "Parolayla küçük harfleri etkinleştirin"
+msgstr "Parolada küçük harflere izin ver"
 
 #: unittranslate.statusenablenumbers
 msgctxt "unittranslate.statusenablenumbers"
 msgid "Enable numbers in password"
-msgstr "Parolayla numaraları etkinleştir"
+msgstr "Parolada numaralara izin ver"
 
 #: unittranslate.statusenablespaces
 msgctxt "unittranslate.statusenablespaces"
 msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
-msgstr "Boşlukları etkinleştir * not: Tüm web siteleri şifrelerdeki boşluklara izin vermez"
+msgstr "Boşlukları etkinleştir * not: Tüm web siteleri parolada boşluklara izin vermez"
 
 #: unittranslate.statusenablesymbols
 msgctxt "unittranslate.statusenablesymbols"
 msgid "Enable symbols / special characters in password"
-msgstr "Şifreyi sembolleri / özel karakterleri etkinleştir"
+msgstr "Parolada sembollere / özel karakterlere izin ver"
 
 #: unittranslate.statusenableuppercase
 msgctxt "unittranslate.statusenableuppercase"
 msgid "Enable uppercase letters in password"
-msgstr "Parolayla büyük harfleri etkinleştir"
+msgstr "Parolada büyük harflere izin ver"
 
 #: unittranslate.statusexitlazlock
 msgctxt "unittranslate.statusexitlazlock"
@@ -985,32 +985,32 @@ msgstr "Bir girişi kaldır"
 #: unittranslate.statussaveencrypt
 msgctxt "unittranslate.statussaveencrypt"
 msgid "Save and encrypt database"
-msgstr "Veritabanı kaydet ve şifreleme"
+msgstr "Veritabanı kaydet ve şifrele"
 
 #: unittranslate.statusselectpwlength
 msgctxt "unittranslate.statusselectpwlength"
 msgid "Select number of characters in password"
-msgstr "Parola karakter sayısını seçin"
+msgstr "Parolanızın karakter sayısını seçin"
 
 #: unittranslate.strongpw
 msgctxt "unittranslate.strongpw"
 msgid "Strong password"
-msgstr "Güçlü şifre"
+msgstr "Güçlü parola"
 
 #: unittranslate.verystrongpw
 msgctxt "unittranslate.verystrongpw"
 msgid "Very strong password"
-msgstr "Çok güçlü şifre"
+msgstr "Çok güçlü parola"
 
 #: unittranslate.veryweakpw
 msgctxt "unittranslate.veryweakpw"
 msgid "Very weak password"
-msgstr "Çok zayıf şifre"
+msgstr "Çok zayıf parola"
 
 #: unittranslate.weakpw
 msgctxt "unittranslate.weakpw"
 msgid "Weak password"
-msgstr "zayıf şifre"
+msgstr "Zayıf parola"
 
 #: unittranslate.welcomemessagedialog
 msgctxt "unittranslate.welcomemessagedialog"
